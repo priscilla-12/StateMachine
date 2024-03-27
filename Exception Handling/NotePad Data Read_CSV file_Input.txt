@@ -1,0 +1,6 @@
+﻿value1,value2,Result
+10,20
+40,20
+ghj,20
+60,ghk
+ghj,tjb
